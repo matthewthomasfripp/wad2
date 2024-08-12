@@ -7,8 +7,8 @@ This project is a university coursework assignment designed to develop a Hospice
 ## Implemented Features
 
 - **Landing and About Us Pages**
-  - Accessible landing page at `localhost:3000`
-  - Detailed information on the About Us page at `localhost:3000/about`
+  - Accessible landing page
+  - Detailed information on the About Us page at `/about`
 
 - **User Authentication**
   - **Login:** Users can log in with valid credentials
@@ -16,18 +16,18 @@ This project is a university coursework assignment designed to develop a Hospice
   - **Roles & Access Control:** Different roles (e.g., managers, volunteers) have appropriate access levels and permissions
 
 - **Shops Management**
-  - **Shops Page:** View the list of shops at `localhost:3000/shops`
-  - **Individual Shop Pages:** Access detailed information for each shop at `localhost:3000/shops/:name`
+  - **Shops Page:** View the list of shops at `/shops`
+  - **Individual Shop Pages:** Access detailed information for each shop at `/shops/:name`
 
 - **Items Management**
-  - **Viewing Items:** Browse items at `localhost:3000/items`
-  - **Editing Items:** Modify item details on the edit page at `localhost:3000/items/edit/:id`
+  - **Viewing Items:** Browse items at `/items`
+  - **Editing Items:** Modify item details on the edit page at `/items/edit/:id`
   - **Creating Items:** Add new items (available for authenticated users)
   - **Deleting Items:** Remove items, with changes reflecting immediately
 
 - **User Management**
   - **Viewing Users:** Access user information (restricted based on role)
-  - **Editing Users:** Update user details on the edit page at `localhost:3000/users/edit/:id`
+  - **Editing Users:** Update user details on the edit page at `/users/edit/:id`
   - **Deleting Users:** Remove users, with changes reflecting immediately
 
 - **Access Control and Error Handling**
