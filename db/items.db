@@ -1,0 +1,71 @@
+{"name":"Test Item","description":"Test Description","price":"99.99","shop":"Cumnock","_id":"B4m3LLkH1hfMgfiz"}
+{"name":"Retro Lamp","description":"A retro lamp with a unique design from the 1970s.","price":"40.00","shop":"Ayr","_id":"a1u3BfGkeHLoPZmq","shop_id":"1bwEx86bonYh4vs1"}
+{"name":"Toy Soldiers","description":"A set of vintage toy soldiers in excellent condition.","price":"40.00","shop":"Ayr","_id":"a3u5BhHzEczMmZqM"}
+{"name":"Designer Dress","description":"A designer dress in excellent condition.","price":"80.00","shop":"Girvan","_id":"a7u9BhHzECiMpZqM"}
+{"name":"Silk Scarf","description":"A luxurious silk scarf with a floral pattern.","price":"35.00","shop":"Girvan","_id":"a9u1BhHzEcopMmZqM"}
+{"name":"Puzzle Board","description":"A board for assembling large puzzles.","price":"25.00","shop":"Cumnock","_id":"b0v2CiIzFdpqNnArN"}
+{"name":"Vintage Tea Set","description":"A delicate tea set with floral patterns.","price":"40.00","shop":"Kilmarnock","_id":"b2v4CgHmeJMpQaNr"}
+{"name":"Silver Bracelet","description":"A beautiful silver bracelet with intricate engravings.","price":"50.00","shop":"Kilmarnock","_id":"b4v6CiIzFdtNnArN"}
+{"name":"Record Player","description":"A vintage record player in working condition.","price":"120.00","shop":"Cumnock","_id":"b8v0CiIzFDjNqArN"}
+{"name":"Engraved Silverware","description":"A set of engraved silverware, perfect for formal dining.","price":"60.00","shop":"Ayr","_id":"c1w3DjJzGerpOoBsO"}
+{"name":"Leather Jacket","description":"A stylish leather jacket, perfect for all seasons.","price":"60.00","shop":"Girvan","_id":"c3w5DhInfKNqRbOs"}
+{"name":"Framed Photograph","description":"A vintage black and white photograph, framed.","price":"45.00","shop":"Girvan","_id":"c5w7DjJzGezOoBsO"}
+{"name":"Puzzle Set","description":"A 1000-piece puzzle set with a scenic image.","price":"15.00","shop":"Ayr","_id":"c9w1DjJzGElOqBsO"}
+{"name":"Silver Earrings","description":"A pair of elegant silver earrings.","price":"35.00","shop":"Kilmarnock","_id":"d0x2EkKzHFmPrCtP"}
+{"name":"Art Book Collection","description":"A collection of art books featuring famous painters.","price":"90.00","shop":"Kilmarnock","_id":"d2x4EkKzHfsqPpCtP"}
+{"name":"Old Vinyl Records","description":"A collection of classic vinyl records from the 60s and 70s.","price":"45.00","shop":"Cumnock","_id":"d4x6EiJoGLOrScPt"}
+{"name":"Tennis Balls","description":"A set of new tennis balls, great for practice.","price":"15.00","shop":"Cumnock","_id":"d6x8EkKzHfaPpCtP"}
+{"name":"Watercolor Painting","description":"A framed watercolor painting of a seascape.","price":"70.00","shop":"Girvan","_id":"e1y3FlLzIGnQsDuQ"}
+{"name":"Designer Handbag","description":"A designer handbag in excellent condition.","price":"150.00","shop":"Girvan","_id":"e3y5FlLzIgtqQqDuQ"}
+{"name":"Porcelain Doll","description":"A collectible porcelain doll in excellent condition.","price":"35.00","shop":"Ayr","_id":"e5y7FkKpMHQrTdQu"}
+{"name":"Bookshelf","description":"A tall wooden bookshelf with adjustable shelves.","price":"110.00","shop":"Ayr","_id":"e7y9FlLzIgbQqDuQ"}
+{"name":"Camping Gear","description":"A set of essential camping gear for outdoor adventures.","price":"100.00","shop":"Cumnock","_id":"f2z4GmMzJHoRtEvR"}
+{"name":"Retro Radio","description":"A vintage radio that still works and looks great.","price":"80.00","shop":"Cumnock","_id":"f4z6GmMzJhuqRtEvR"}
+{"name":"Wristwatch","description":"A vintage wristwatch with a leather strap.","price":"80.00","shop":"Kilmarnock","_id":"f6z8GlLqINRsUeRv"}
+{"name":"Vintage Blender","description":"A vintage blender, still in working condition.","price":"40.00","shop":"Kilmarnock","_id":"f8z0GmMzJhcrRtEvR"}
+{"name":"Antique Chair","description":"A beautifully crafted antique wooden chair.","price":"120.00","shop":"Ayr","_id":"g3a5HnNzKIpSuFwS"}
+{"name":"Glass Coffee Table","description":"A modern glass coffee table with a sleek design.","price":"110.00","shop":"Ayr","_id":"g5a7HnNzKivqSuFwS"}
+{"name":"Oil Painting","description":"A beautiful oil painting depicting a countryside scene.","price":"100.00","shop":"Girvan","_id":"g7a9HmMrJOTtVfSw"}
+{"name":"Leather Boots","description":"A pair of high-quality leather boots, barely worn.","price":"75.00","shop":"Girvan","_id":"g9a1HnNzKjdrSuFwS"}
+{"name":"Old Magazines","description":"A collection of old magazines from the 1970s.","price":"30.00","shop":"Cumnock","_id":"h0b2IoOzLkesTvGxT"}
+{"name":"Cutlery Set","description":"A vintage cutlery set with ornate handles.","price":"45.00","shop":"Kilmarnock","_id":"h4b6IoOzLJqTvGxT"}
+{"name":"Cast Iron Pot","description":"A durable cast iron pot for slow-cooking.","price":"50.00","shop":"Kilmarnock","_id":"h6b8IoOzLjqvTvGxT"}
+{"name":"Mountain Bike","description":"A used mountain bike in good condition.","price":"150.00","shop":"Cumnock","_id":"h8b0InNsKPUuWgTx"}
+{"name":"Board Games","description":"A collection of family board games in good condition.","price":"25.00","shop":"Ayr","_id":"i1c3JpPzMlfsUwHyU"}
+{"name":"Winter Boots","description":"A pair of warm and durable winter boots.","price":"60.00","shop":"Girvan","_id":"i5c7JpPzMKtUwHyU"}
+{"name":"Trench Coat","description":"A classic trench coat in excellent condition.","price":"95.00","shop":"Girvan","_id":"i7c9JpPzMklvUwHyU"}
+{"name":"Cookware Set","description":"A complete set of stainless steel cookware.","price":"70.00","shop":"Ayr","_id":"i9c1JoOtLMVvXhUy"}
+{"name":"Winter Coat","description":"A warm and stylish winter coat.","price":"90.00","shop":"Kilmarnock","_id":"j0d2KpPuMNWwYiVz"}
+{"name":"Gold Earrings","description":"A pair of gold earrings with small diamonds.","price":"85.00","shop":"Kilmarnock","_id":"j2d4KqQzNmdvVxIzV"}
+{"name":"Vintage Books","description":"A set of vintage books with leather covers.","price":"75.00","shop":"Cumnock","_id":"j6d8KqQzNLoVxIzV"}
+{"name":"Photography Books","description":"A collection of books on photography techniques.","price":"55.00","shop":"Cumnock","_id":"j8d0KqQzNmmvVxIzV"}
+{"name":"Bookshelf","description":"A wooden bookshelf with adjustable shelves.","price":"85.00","shop":"Girvan","_id":"k1e3LqQvNOXxZjWa"}
+{"name":"Watercolor Painting","description":"A framed watercolor painting of a flower garden.","price":"60.00","shop":"Girvan","_id":"k3e5LrRzOnexWyJaW"}
+{"name":"Stuffed Animals","description":"A collection of plush stuffed animals.","price":"20.00","shop":"Ayr","_id":"k7e9LrRzOMpWyJaW"}
+{"name":"Stuffed Toys","description":"A collection of vintage stuffed toys in great condition.","price":"30.00","shop":"Ayr","_id":"k9e1LrRzOnwqWyJaW"}
+{"name":"Sapphire Ring","description":"A gold ring with a small sapphire stone.","price":"120.00","shop":"Kilmarnock","_id":"l0f2MrSzQpyXkKbX"}
+{"name":"Leather Sofa","description":"A comfortable leather sofa in excellent condition.","price":"300.00","shop":"Cumnock","_id":"l2f4MsRzQkxXkKbX"}
+{"name":"China Cabinet","description":"A large wooden china cabinet with glass doors.","price":"250.00","shop":"Ayr","_id":"l4f6MrSzQlkXkKbX"}
+{"name":"Bicycle Helmet","description":"A lightweight and durable bicycle helmet.","price":"30.00","shop":"Cumnock","_id":"l6f8MrSzQnjvXkKbX"}
+{"name":"Diamond Necklace","description":"A gold necklace with a small diamond pendant.","price":"150.00","shop":"Kilmarnock","_id":"l8f0MsRzQpzXkKbX"}
+{"name":"Leather Wallet","description":"A sleek leather wallet with multiple compartments.","price":"45.00","shop":"Girvan","_id":"m3g5NtUzRquYlLcY"}
+{"name":"Coffee Grinder","description":"A vintage coffee grinder in good working order.","price":"55.00","shop":"Kilmarnock","_id":"m5g7NsRzRpuqYlLcY"}
+{"name":"Sculpture","description":"A bronze sculpture of a running horse.","price":"200.00","shop":"Girvan","_id":"m7g9NsRzRvtqYlLcY"}
+{"name":"Wool Sweater","description":"A cozy wool sweater, perfect for winter.","price":"40.00","shop":"Girvan","_id":"m9g1NsRzRmwYlLcY"}
+{"name":"Fossil Watch","description":"A Fossil brand wristwatch with a leather strap.","price":"80.00","shop":"Kilmarnock","_id":"n0h2OrVxTpxYmMdZ"}
+{"name":"Mahogany Desk","description":"A sturdy mahogany desk with drawers.","price":"180.00","shop":"Ayr","_id":"n2h4OsVzTpqYmMdZ"}
+{"name":"Vinyl Record Player","description":"A vinyl record player with a retro design.","price":"100.00","shop":"Cumnock","_id":"n6h8OsVzTmrYmMdZ"}
+{"name":"Brass Lamp","description":"A brass lamp with a vintage design.","price":"60.00","shop":"Cumnock","_id":"n8h0OsVzTnrYmMdZ"}
+{"name":"Oak Dining Table","description":"A large oak dining table with seating for six.","price":"250.00","shop":"Ayr","_id":"o0i2PpYzUkqZnNeA"}
+{"name":"Vintage Sofa","description":"A vintage sofa with a floral print upholstery.","price":"150.00","shop":"Cumnock","_id":"o2i4PqYzUmZrNeA"}
+{"name":"Digital Camera","description":"A used digital camera in good working condition.","price":"120.00","shop":"Cumnock","_id":"o4i6PpYzUxrZnNeA"}
+{"name":"Guitar","description":"An acoustic guitar with a rich sound.","price":"130.00","shop":"Kilmarnock","_id":"o6i8PpYzUlsrZnNeA"}
+{"name":"Glass Vase","description":"A tall glass vase, perfect for displaying flowers.","price":"25.00","shop":"Girvan","_id":"o8i0PqYzUjsrZnNeA"}
+{"name":"Vintage Phone","description":"A rotary phone from the 1950s, still in working condition.","price":"70.00","shop":"Kilmarnock","_id":"p0j2QrZzVmyZoOfB"}
+{"name":"Fountain Pen","description":"A vintage fountain pen with a gold nib.","price":"90.00","shop":"Kilmarnock","_id":"p2j4QsZzVmZrOfB"}
+{"name":"Bamboo Plant Stand","description":"A bamboo stand for holding plants.","price":"40.00","shop":"Cumnock","_id":"p4j6QrZzVmkrZoOfB"}
+{"name":"Antique Clock","description":"A classic antique clock with a wooden frame.","price":"120.00","shop":"Ayr","_id":"p6j8QrZzVmnrZoOfB"}
+{"name":"Ceramic Vase","description":"A beautifully hand-painted ceramic vase.","price":"45.00","shop":"Girvan","_id":"p8j0QsZzVmirZoOfB"}
+{"name":"Area Rug","description":"A large area rug with a Persian pattern.","price":"200.00","shop":"Cumnock","_id":"q2k4RtZzWnNsPqGq"}
+{"name":"Metallic Sculpture","description":"A modern metallic sculpture of an abstract figure.","price":"150.00","shop":"Kilmarnock","_id":"q4k6RsZzWmZsPqGq"}
+{"name":"Antique Bookshelf","description":"A large antique bookshelf made of oak.","price":"300.00","shop":"Cumnock","_id":"q6k8RsZzWjZrPqGq"}

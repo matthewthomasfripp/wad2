@@ -1,0 +1,61 @@
+{{>partials/header}}
+{{>partials/navbar}}
+<main class="mx-auto max-w-xl px-4 sm:px-6 lg:px-8">
+  <div class="flex items-baseline justify-between border-b border-gray-200 pb-6 pt-24">
+    <h1 class="text-4xl font-bold tracking-tight text-gray-900">Users</h1>
+    {{#isVolunteerOrManager}}
+    <div class="flex items-center">
+      <a type="button" href="/users/add"
+        class="inline-flex w-full justify-center rounded-md bg-green-500 px-[10px] pb-[6px] pt-[3px] text-sm font-bold text-white shadow-sm hover:bg-green-400 sm:ml-3 sm:w-auto">+</a>
+    </div>
+    {{/isVolunteerOrManager}}
+  </div>
+
+  <section aria-labelledby="products-heading" class="pb-24 pt-6">
+
+
+    <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+      <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+          <tr>
+            <th scope="col" class="px-4 py-3">
+              Username
+            </th>
+            <th scope="col" class="px-4 py-3">
+              Shop
+            </th>
+            <th scope="col" class="px-4 py-3">
+              Role
+            </th>
+            <th scope="col" class="px-4 py-3">
+              Action
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#users}}
+
+          <tr class="odd:bg-white even:bg-gray-50 border-b">
+            <th scope="row" class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap ">
+              {{username}}
+            </th>
+            <td class="px-4 py-3">
+              {{shop}}
+            </td>
+            <td class="px-4 py-3">
+              {{role}}
+            </td>
+            <td class="px-4 py-3" style="text-align: left;">
+              <a href="/users/edit/{{_id}}" class="font-medium hover:underline">
+                <p style="color: #3251ff;">Edit</p>
+              </a>
+            </td>
+
+            {{/users}}
+        </tbody>
+      </table>
+    </div>
+
+  </section>
+</main>
+{{>partials/footer}}

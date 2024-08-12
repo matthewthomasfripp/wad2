@@ -1,0 +1,57 @@
+{{>partials/header}}
+{{>partials/navbar}}
+<main class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="flex items-baseline justify-between border-b border-gray-200 pb-6 pt-24">
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900">Add User</h1>
+    </div>
+
+    <section aria-labelledby="products-heading" class="pb-24 pt-6">
+        <form action="/users/add" method="POST">
+            <div class="space-y-12">
+                <div class="pb-12">
+                    <h2 class="text-base font-semibold leading-7 text-gray-900">User Information</h2>
+                    <p class="mt-1 text-sm leading-6 text-gray-600">Create a new user.</p>
+
+                    <div class="mt-6">
+                        <div class="sm:col-span-3">
+                            <label for="username"
+                                class="block text-sm font-medium leading-6 text-gray-900">Username</label>
+                            <div class="mt-2">
+                                <input type="text" name="username" id="username" required
+                                    class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                            </div>
+                        </div>
+
+                        <div class="mt-4">
+                            <label for="password"
+                                class="block text-sm font-medium leading-6 text-gray-900">Password</label>
+                            <div class="mt-2">
+                                <input name="password" id="password" type="password" minlength="8" required
+                                    class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                            </div>
+                        </div>
+
+                        <div class="mt-4">
+                            <label for="shop" class="block text-sm font-medium leading-6 text-gray-900">Shop</label>
+                            <div class="mt-2">
+                                <select id="shop" name="shop"
+                                    class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:max-w-xs sm:text-sm sm:leading-6">
+                                    {{#shops}}
+                                    <option>{{name}}</option>
+                                    {{/shops}}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-6 flex items-center justify-end gap-x-6">
+                    <a href="/users" class="text-sm font-semibold leading-6 text-gray-900 mr-1">Cancel</a>
+                    <button type="submit"
+                        class="rounded-md bg-green-500 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-green-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-500">Add</button>
+                </div>
+        </form>
+    </section>
+</main>
+
+{{>partials/footer}}

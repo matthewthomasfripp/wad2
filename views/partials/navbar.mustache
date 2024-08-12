@@ -1,0 +1,29 @@
+<header class="absolute inset-x-0 top-0 z-50 border-b">
+    <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
+        <div class="flex lg:flex-1">
+            <a href="/" class="-m-1.5 p-1.5">
+                {{>partials/logo}}
+            </a>
+        </div>
+        <div class="lg:flex lg:gap-x-12 ">
+            <a href="/about" class="text-base font-semibold leading-6 text-gray-900">About</a>
+            <a href="/shops" class="text-base font-semibold leading-6 text-gray-900">Shops</a>
+            <a href="/items" class="text-base font-semibold leading-6 text-gray-900">Items</a>
+            {{#isManager}}
+            <a href="/users" class="text-base font-bold leading-6 text-indigo-600">Users</a>
+            {{/isManager}}
+        </div>
+        <div class="flex flex-1 justify-end pl-1">
+            {{#userId}}
+            <a href="/logout" class="text-base font-semibold leading-6 text-gray-900">Log out <span
+                    aria-hidden="true">&rarr;</span>
+            </a>
+            {{/userId}}
+            {{^userId}}
+            <a href="/login" class="text-base font-semibold leading-6 text-gray-900">Log in <span
+                    aria-hidden="true">&rarr;</span>
+            </a>
+            {{/userId}}
+        </div>
+    </nav>
+</header>

@@ -1,0 +1,9 @@
+{"username":"admin","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"manager","shop":"Girvan","_id":"dWVXxOrOY9rqKt2W"}
+{"username":"manager","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"manager","shop":"Kilmarnock","_id":"94Zpw1L0vUqCYz7B"}
+{"username":"sam","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Ayr","_id":"19NnQxP7ewFzXa2O"}
+{"username":"scott","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Cumnock","_id":"Vt8y1MnLE3zkXBvJ"}
+{"username":"jane","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Ayr","_id":"a8N4xP2Kv1qMZ7yB"}
+{"username":"liam","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Girvan","_id":"cD9n2Sp8Rw6yMz3L"}
+{"username":"lucy","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Kilmarnock","_id":"eL2y4Mx7Lp8vNt5K"}
+{"username":"mark","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Girvan","_id":"oB5y6Mz7Le2xYXvQ"}
+{"username":"emma","password":"$2b$10$87EOo2IDz9JYuExwsl3GUuTB2jZbIIBlLt.Pme0E51nqfPgeCQL5W","role":"volunteer","shop":"Cumnock","_id":"xN7p3Rq6Oe9wBt8Y"}
