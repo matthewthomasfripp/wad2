@@ -4,6 +4,37 @@
 
 This project is a university coursework assignment designed to develop a Hospice Charity App. The app provides users with information about charity locations and available items. While staff are able to modify the current stock. The application leverages modern web technologies and follows best practices in web development to deliver a smooth and user-friendly experience.
 
+## Implemented Features
+
+- **Landing and About Us Pages**
+  - Accessible landing page at `localhost:3000`
+  - Detailed information on the About Us page at `localhost:3000/about`
+
+- **User Authentication**
+  - **Login:** Users can log in with valid credentials
+  - **Logout:** Users can log out successfully
+  - **Roles & Access Control:** Different roles (e.g., managers, volunteers) have appropriate access levels and permissions
+
+- **Shops Management**
+  - **Shops Page:** View the list of shops at `localhost:3000/shops`
+  - **Individual Shop Pages:** Access detailed information for each shop at `localhost:3000/shops/:name`
+
+- **Items Management**
+  - **Viewing Items:** Browse items at `localhost:3000/items`
+  - **Editing Items:** Modify item details on the edit page at `localhost:3000/items/edit/:id`
+  - **Creating Items:** Add new items (available for authenticated users)
+  - **Deleting Items:** Remove items, with changes reflecting immediately
+
+- **User Management**
+  - **Viewing Users:** Access user information (restricted based on role)
+  - **Editing Users:** Update user details on the edit page at `localhost:3000/users/edit/:id`
+  - **Deleting Users:** Remove users, with changes reflecting immediately
+
+- **Access Control and Error Handling**
+  - **Restricted Access:** Pages and actions restricted based on user authentication and role
+  - **404 Error Handling:** Proper handling of navigation to non-existent pages
+
+
 ## Technologies Used
 
 - **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.
