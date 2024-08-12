@@ -6,7 +6,7 @@ The application is live and accessible at [https://wad.fripp.xyz](https://wad.fr
 
 For demonstration purposes, the following credentials can be used:
 
-- **Volunteer Role**: Username: `volunteer`, Password: `password123`
+- **Volunteer Role**: Username: `scott`, Password: `password123`
 - **Manager Role**: Username: `manager`, Password: `password123`
 
 ## Project Overview
