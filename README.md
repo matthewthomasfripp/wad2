@@ -1,5 +1,9 @@
 # Hospice Charity App
 
+## Live Deployment
+
+The application is live and accessible at [https://wad.fripp.xyz](https://wad.fripp.xyz).
+
 ## Project Overview
 
 This project is a university coursework assignment designed to develop a Hospice Charity App. The app provides users with information about charity locations and available items. While staff are able to modify the current stock. The application leverages modern web technologies and follows best practices in web development to deliver a smooth and user-friendly experience.
