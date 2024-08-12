@@ -10,6 +10,8 @@ exports.getAllUsers = async (req, res) => {
 // Controller to render the edit user page
 exports.getEditUser = async (req, res) => {
   const user = await User.findById(req.params.id); // Fetch the user by ID from the database
+  if (!user) return res.render('404'); // If the user is not found, render the 404 page
+
   const dbShops = await Shop.findAll(); // Fetch all shops from the database
 
   // Map through the shops and mark the selected shop

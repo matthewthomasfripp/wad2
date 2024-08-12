@@ -34,6 +34,8 @@ exports.postAddItem = async (req, res) => {
 // Controller to render the edit item page
 exports.getEditItem = async (req, res) => {
     const item = await Item.findById(req.params.id); // Fetch the item by ID from the database
+    if (!item) return res.render('404'); // If the item is not found, render the 404 page
+
     const dbShops = await Shop.findAll(); // Fetch all shops from the database
 
     // Map through the shops and mark the selected shop
